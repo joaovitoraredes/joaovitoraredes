@@ -9,8 +9,9 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joaovitoraredes&bg_color=0d1117&color=ff7289&line=dd6387&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://www.webcontadores.com" title="contador de visitas blog"><img src="https://counter4.optistats.ovh/private/webcontadores.php?c=rekxshy3ngx6b1al4x9dczezxe4quqaf" border="0" title="contador de visitas blog" alt="contador de visitas blog"></a>
-
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaovitoraredes}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd6387&height=120&section=footer"/>
