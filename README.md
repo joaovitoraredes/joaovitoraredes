@@ -16,24 +16,24 @@
 <!-- HABILIDADES PRINCIPAIS -->
 ### Main skills:
 <div style="display: inline_block">
-  <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img align="center" alt="android" src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=white" />
 <!--   <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> -->
 </div><br/>
 
 <!-- FERRAMENTAS -->
 ### Tools
 <div style="display: inline_block">
-  <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=fffff" />
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="microsoft" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="microsoft" src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
 ### Other Knowledge:
 <div style="display: inline_block">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ce2c49?style=for-the-badge&logo=java&logoColor=white)" />
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=whit" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)" />
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
 <!-- REDES SOCIAIS -->
