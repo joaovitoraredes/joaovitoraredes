@@ -1,17 +1,17 @@
 <!-- ONDA SUPERIOR -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd6387&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02a3a4&height=110&section=header"/>
 
 <!-- TEXTO SOBRE MIM -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02a3a4&size=35&duration=4000&center=true&vCenter=true&width=1000&lines=Welcome!+My+name+is+João+Vitor+:%29;+I'm+21+years+old;I+from+Belo+Horizonte+-+MG;I+study+mobile+development+at+ADA;+-+E+n+j+o+y+-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01bcbf&size=35&duration=4000&center=true&vCenter=true&width=1000&lines=Welcome!+My+name+is+João+Vitor+:%29;+I'm+21+years+old;I+from+Belo+Horizonte+-+MG;I+study+mobile+development+at+ADA;+-+E+n+j+o+y+-)](https://git.io/typing-svg)
 
 <!-- ESTÁTISTICAS -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovitoraredes&show_icons=true&count_private=true&hide_border=true&title_color=01a0a3&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoraredes&layout=compact&hide_border=true&title_color=01a0a3&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovitoraredes&show_icons=true&count_private=true&hide_border=true&title_color=01bcbd&icon_color=01bcbd&text_color=c9d1d9&bg_color=0d1117" alt="Jv github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoraredes&layout=compact&hide_border=true&title_color=01bcbd&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <!-- GRÁFICO CONTRIBUIÇÃO -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joaovitoraredes&bg_color=0d1117&color=ff7289&line=dd6387&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joaovitoraredes&bg_color=0d1117&color=99fdff&line=02edff&point=ccf9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- HABILIDADES PRINCIPAIS -->
 ### Main skills:
@@ -44,7 +44,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 <!-- ONDA INFERIOR -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd6387&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02a3a4&height=120&section=footer"/>
 
 <!-- CONTADOR DE VISITANTES -->
 <div align="center">
