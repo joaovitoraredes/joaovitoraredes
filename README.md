@@ -11,7 +11,7 @@
 </div>
 
 <!-- GRÁFICO CONTRIBUIÇÃO -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joaovitoraredes&bg_color=0d1117&color=99fdff&line=02edff&point=ccf9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joaovitoraredes&bg_color=0d1117&color=99fdff&line=02edff&point=ccf9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- HABILIDADES PRINCIPAIS -->
 ### Main skills:
